@@ -6,7 +6,12 @@ function setup()
 {
 
 	createCanvas(windowWidth, windowHeight);
-	capture = createCapture(VIDEO);
+	capture = createCapture({
+    	audio: false,
+    	video: {
+      		facingMode: "user"
+    	}
+    });
 	capture.size(320, 240);
 	capture.hide();
 }
