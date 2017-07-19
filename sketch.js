@@ -3,6 +3,18 @@
 let capture;
 let coreyFont;
 
+function randomString(length, chars) {
+    var mask = '';
+    if (chars.indexOf('a') > -1) mask += 'abcdefghijklmnopqrstuvw';
+    if (chars.indexOf('A') > -1) mask += 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+    if (chars.indexOf('#') > -1) mask += '0123456789';
+    if (chars.indexOf('!') > -1) mask += '~`!@#$%^&*()_+-={}[]:";\'<>?,./|\\';
+    var result = '';
+    for (var i = length; i > 0; --i) result += mask[Math.floor(Math.random() * mask.length)];
+    return result;
+}
+
+
 function preload()
 {
 	coreyFont = loadFont("https://rawalvarez731.github.io/WELOC___.TTF");
@@ -33,6 +45,7 @@ function circle(x, y)
 
 let squiglys = [];
 let circles  = [];
+let str      = randomString(5, "a");
 function setup()
 {
 	createCanvas(windowWidth, windowHeight);	
@@ -62,5 +75,5 @@ function draw()
 	fill(255).strokeWeight(0).textSize(150);
 	textFont(coreyFont);
 	textAlign('center');
-	text("fucku",windowWidth/2, windowHeight/2);
+	text(str,windowWidth/2, windowHeight/2);
 }
