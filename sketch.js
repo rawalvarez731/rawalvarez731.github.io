@@ -5,7 +5,7 @@ let coreyFont;
 
 function preload()
 {
-	coreyFont = loadFont("https://rawalvarez731.github.io/WELOC___.ttf");
+	coreyFont = loadFont("https://rawalvarez731.github.io/WELOC___.TTF");
 }
 
 function setup()
@@ -17,6 +17,8 @@ function setup()
 function draw()
 {
 	background('#1E023F');
+	fill(255).strokeWeight(0).textSize(150);
 	textFont(coreyFont);
-	text("O yeah", 10, 70);
+	textAlign('center');
+	text("fucku",windowWidth/2, windowHeight/2);
 }
