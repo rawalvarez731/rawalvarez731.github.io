@@ -1,23 +1,22 @@
 'use strict';
 
 let capture;
+let coreyFont;
+
+function preload()
+{
+	coreyFont = loadFont("https://rawalvarez731.github.io/WELOC___.ttf");
+}
 
 function setup()
 {
 
 	createCanvas(windowWidth, windowHeight);
-	capture = createCapture({
-    	audio: false,
-    	video: {
-      		facingMode: "user"
-    	}
-    });
-	capture.size(320, 240);
-	capture.hide();
 }
 
 function draw()
 {
-	background(255);
-	image(capture, 0, 0, windowWidth, windowHeight);
+	background('#1E023F');
+	textFont(coreyFont);
+	text("O yeah", 10, 70);
 }
