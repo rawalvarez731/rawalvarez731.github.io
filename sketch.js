@@ -133,3 +133,6 @@ function draw()
 	text("80s DREAM MACHINE",windowWidth/2, windowHeight/2+100);
 }
 
+function windowResized() {
+  location.reload();
+}
