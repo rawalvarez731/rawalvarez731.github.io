@@ -1,0 +1,1045 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"radn",
+				"randomString"
+			],
+			[
+				"ang",
+				"angle1"
+			],
+			[
+				"sq",
+				"squigly"
+			],
+			[
+				"an",
+				"angle2"
+			],
+			[
+				"y",
+				"yO"
+			],
+			[
+				"x",
+				"x"
+			],
+			[
+				"wind",
+				"windowHeight"
+			],
+			[
+				"c",
+				"coreyFont"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"que",
+				"querySelector"
+			],
+			[
+				"getEleme",
+				"getElementsByClassName"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"G",
+				"GAME_DAT"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"enem",
+				"EnemyBehavior"
+			],
+			[
+				"ca",
+				"ca_types"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"ste",
+				"settings"
+			],
+			[
+				"he",
+				"_height"
+			],
+			[
+				"Pla",
+				"PlayerBehavior"
+			],
+			[
+				"beh",
+				"behaviors"
+			],
+			[
+				"beha",
+				"behaviors"
+			],
+			[
+				"te",
+				"testObject"
+			],
+			[
+				"be",
+				"behavior"
+			],
+			[
+				"render",
+				"renderStratagey"
+			],
+			[
+				"ti",
+				"ticks"
+			],
+			[
+				"get",
+				"getObjectManager"
+			],
+			[
+				"rend",
+				"renderManager"
+			],
+			[
+				"ren",
+				"renderManager"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"t",
+				"ticks"
+			],
+			[
+				"Ma",
+				"Math.random()*rD"
+			],
+			[
+				"ne",
+				"getNeighbor"
+			],
+			[
+				"b",
+				"birth"
+			],
+			[
+				"f",
+				"floor"
+			],
+			[
+				"m",
+				"mouseX"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"rt",
+				"return"
+			],
+			[
+				"n",
+				"nState"
+			],
+			[
+				"nex",
+				"nextState"
+			],
+			[
+				"for",
+				"for"
+			],
+			[
+				"con",
+				"constructor"
+			],
+			[
+				"bore",
+				"border"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"brt",
+				"birth_numbers"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"add",
+				"add5mult10"
+			],
+			[
+				"H",
+				"HEIGHT"
+			],
+			[
+				"gr",
+				"grid"
+			],
+			[
+				"bes",
+				"bestErrors"
+			],
+			[
+				"er",
+				"errorOfBestGrids"
+			],
+			[
+				"g",
+				"grids"
+			],
+			[
+				"e",
+				"eVal"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"ra",
+				"randomCell"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"cs",
+				"constructor"
+			],
+			[
+				"mem",
+				"member"
+			],
+			[
+				"random",
+				"randomCell"
+			],
+			[
+				"rand",
+				"randomCell"
+			],
+			[
+				"ran",
+				"randomCell"
+			],
+			[
+				"draw",
+				"drawEntities"
+			],
+			[
+				"sus",
+				"suscribers"
+			],
+			[
+				"give",
+				"giveEvent"
+			],
+			[
+				"ss",
+				"suscribers"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"sis",
+				"suscribers"
+			],
+			[
+				"susc",
+				"suscriber"
+			],
+			[
+				"si",
+				"suscribers"
+			],
+			[
+				"angl",
+				"angledown"
+			],
+			[
+				"cen",
+				"centerY"
+			],
+			[
+				"cente",
+				"centerX"
+			],
+			[
+				"de",
+				"degreeToRadians"
+			],
+			[
+				"Bat",
+				"BattleBot"
+			],
+			[
+				"fn",
+				"function"
+			],
+			[
+				"cav",
+				"canvas"
+			],
+			[
+				"index",
+				"indexOf"
+			],
+			[
+				"line",
+				"lines"
+			],
+			[
+				"abs",
+				"absline"
+			],
+			[
+				"inde",
+				"indexOf"
+			],
+			[
+				"canv",
+				"canvasdata"
+			],
+			[
+				"proto",
+				"prototype	(index.html)"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"ge",
+				"generate"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"fu",
+				"function	(main.js)"
+			],
+			[
+				"up",
+				"updateCanvas"
+			],
+			[
+				"dr",
+				"drawPixel"
+			],
+			[
+				"cas",
+				"canvasData"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"sm",
+				"smoothNoise"
+			],
+			[
+				"frac",
+				"fractY"
+			],
+			[
+				"canvasH",
+				"canvasHeight"
+			],
+			[
+				"cava",
+				"canvasData"
+			],
+			[
+				"rg",
+				"rgb	(rot.js)"
+			],
+			[
+				"list",
+				"listToMatrix"
+			],
+			[
+				"Dark",
+				"DarkEcho	(main.js)"
+			],
+			[
+				"Ge",
+				"Generator	(generator.js)"
+			],
+			[
+				"DAR",
+				"DarkEcho"
+			],
+			[
+				"octa",
+				"octaveCount"
+			],
+			[
+				"base",
+				"baseNoise"
+			],
+			[
+				"smaple",
+				"sample_i0"
+			],
+			[
+				"sam",
+				"samplePeriod"
+			],
+			[
+				"sa",
+				"samplePeriod"
+			],
+			[
+				"pro",
+				"prototype	(rot.js)"
+			],
+			[
+				"map",
+				"mapHeight"
+			],
+			[
+				"_cen",
+				"_centerY"
+			],
+			[
+				"topL",
+				"topLeftY"
+			],
+			[
+				"top",
+				"topLeftY"
+			],
+			[
+				"Dar",
+				"DarkEcho"
+			],
+			[
+				"go",
+				"goToDetails"
+			],
+			[
+				"mo",
+				"module	(controllers.js)"
+			],
+			[
+				"gri",
+				"grizzly-text	(style.css)"
+			],
+			[
+				"butt",
+				"button-icon"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"flex",
+				"flex-direction"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"server",
+				"serverPort"
+			],
+			[
+				"ser",
+				"serverName"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Richard Alvarez/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+			"settings":
+			{
+				"buffer_size": 70,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 446.0
+	},
+	"console":
+	{
+		"height": 370.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Z/rawalvarez731.github.io/sketch.js",
+		"/Z/rawalvarez731.github.io/index.html",
+		"/Z/rawalvarez731.github.io/README.md",
+		"/Z/rawalvarez731.github.io/github.sublime-project",
+		"/Z/twatter.dev/common.php",
+		"/Z/twatter.dev/views/index-view.php",
+		"/Z/twatter.dev/login-controller.php",
+		"/Z/twatter.dev/views/login-view.php",
+		"/Z/twatter.dev/twats-controller.php",
+		"/Z/twatter.dev/views/twats-view.php",
+		"/Z/twatter.dev/footer.php",
+		"/Z/twatter.dev/twatter.dev.sublime-project",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/Z/html/index.html",
+		"/Z/twatter.dev/index.php",
+		"/Y/javascript/fish/index.js",
+		"/Z/phpinfo.dev/index.php",
+		"/Z/html/index.html.html",
+		"/Y/phpinfo.dev",
+		"/Z/html/index.nginx-debian.html",
+		"/Y/newhost.bat",
+		"/C/Users/Richard Alvarez/Desktop/dev/scribble-beats/index.html",
+		"/C/Users/Richard Alvarez/Desktop/dev/scribble-beats/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp46665/usr/share/nginx/pureblue.design/public/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp46537/usr/share/nginx/pureblue.design/public/index.html",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp34150/usr/share/nginx/fly.pureblue.design/public/app.php",
+		"/C/Users/Richard Alvarez/Desktop/dev/no-single-matter/index.html",
+		"/C/Users/Richard Alvarez/Desktop/dev/no-single-matter/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp10626/usr/share/nginx/pureblue.design/public/index.html",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp26616/usr/share/nginx/pureblue.design/public/p5.gif.min.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp10851/usr/share/nginx/pureblue.design/public/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp14364/etc/nginx/sites-enabled/pureblue.design",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp16892/usr/share/nginx/pureblue.design/public/index.html",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp17908/usr/share/nginx/pureblue.design/public/p5.gif.min.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp16900/usr/share/nginx/pureblue.design/public/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp09098/usr/share/nginx/therock.pureblue.design/public/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp42370/usr/share/nginx/therock.pureblue.design/public/index.html",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp16005/usr/share/nginx/pureblue.design/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp47426/usr/share/nginx/therock.pureblue.design/public/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp02001/usr/share/nginx/therock.pureblue.design/public/index.html",
+		"/C/Users/Richard Alvarez/Desktop/dev/3-1-3/index.js",
+		"/C/Users/Richard Alvarez/Desktop/dev/3-1-3/index.html",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp10019/home/3-1-3/index.html",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp10874/home/3-1-3/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp02858/home/3-1-3/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp02746/home/3-1-3/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp02260/usr/share/nginx/therock.pureblue.design/index.js",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp20996/etc/nginx/sites-enabled/therock.pureblue.design",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp57910/usr/share/nginx/pureblue.design/public/app.php",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp44315/usr/share/nginx/therock.pureblue.design/package.json",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp16959/home/CA-generator/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp06910/home/4-5caves/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp03417/home/4-5caves/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp03001/home/4-5caves/cave.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp02538/home/gof-but-fnc/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp11928/home/4-5caves/cave.pyc",
+		"/C/Users/Richard Alvarez/Desktop/dev/fnscript/script.js",
+		"/C/Users/Richard Alvarez/Desktop/dev/fnscript/index.html",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp48823/etc/vsftpd.conf",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp49554/etc/vsftpd/vsftpd.conf",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp48877/home/vectors/vectors.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp03214/home/maximum-path-sim-I/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp09504/home/maximum-path-sim-I/test.txt",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp59044/home/maximum-path-sim-I/src.txt",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp00110/home/cell-auto/src.txt",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp59120/home/cell-auto/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp00290/home/cell-auto/src.txt",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp49460/home/number-spiral-diagonals/main.py",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp59120/home/cell-auto/src.txt",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp41747/home/number-spiral-diagonals/README.md",
+		"/C/Users/Richard Alvarez/AppData/Local/Temp/scp11668/home/cell-auto/main.py",
+		"/C/Users/Richard Alvarez/main.py",
+		"/C/Users/Richard Alvarez/Dropbox/1769/index.php",
+		"/C/Users/Richard Alvarez/Dropbox/1769/views/modals/shows-DM1.php",
+		"/C/Users/Richard Alvarez/Desktop/dev/grizzly.pureblue.design/gulpfile.js",
+		"/C/Users/Richard Alvarez/Dropbox/1769/home.php",
+		"/C/Users/Richard Alvarez/Dropbox/1769/views/modals/shows.php",
+		"/C/Users/Richard Alvarez/Dropbox/1769/views/modals/db.php",
+		"/C/Users/Richard Alvarez/Desktop/dev/grizzly.pureblue.design/public/pug/index.pug",
+		"/C/Users/Richard Alvarez/Desktop/dev/grizzly.pureblue.design/public/css/style.css",
+		"/C/Users/Richard Alvarez/Desktop/dev/grizzly.pureblue.design/.gitignore",
+		"/C/Users/Richard Alvarez/Desktop/j-art/fractals/src/fractals.pde",
+		"/C/Users/Richard Alvarez/Desktop/j-art/fractals/index.html",
+		"/C/Users/Richard Alvarez/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Richard Alvarez/Desktop/j-art/fractals/processing.min.js",
+		"/Z/maze-er/maze.py",
+		"/X/j-art/mazely/test/index.html",
+		"/X/j-art/mazely/index.js",
+		"/X/physics-gine/index.html",
+		"/X/physics-gine/index.css",
+		"/X/physics-gine/index.js",
+		"/X/j-art/Eating my brain/index.js",
+		"/Y/j-art/I can't stop shaking somtimes/public/index.html",
+		"/Y/j-art/I can't stop shaking somtimes/public/index.js",
+		"/Y/j-art/Eating my brain/index.js",
+		"/Y/j-art/I can't stop shaking somtimes/public/index.css",
+		"/Y/pureblue.design/index.js",
+		"/Y/j-art/Eating my brain/index.html",
+		"/Y/pureblue.design/index.css",
+		"/Y/pureblue.design/.gitlab-ci.yml",
+		"/Y/j-art/Slice of Life/index.js",
+		"/Y/j-art/Slice of Life/index.css",
+		"/Y/j-art/Slice of Life/index.html",
+		"/Y/j-art/Eating my brain/index.css",
+		"/Y/doodle-bop/public/instructs.js",
+		"/Y/doodle-bop/README.md",
+		"/Y/doodle-bop/public/doodle.html",
+		"/Y/doodle-bop/views/instructs.js",
+		"/Y/doodle-bop/views/doodle.html",
+		"/Y/doodle-bop/index.js",
+		"/Y/digital-closet/public/index.php",
+		"/Z/javascript-yots/genuis-triangle.js",
+		"/Z/javascript-yots/genuis-triangle.html",
+		"/Z/underquestion.xunn.io/public/index.php",
+		"/Z/underquestion.xunn.io/public/app.php",
+		"/Z/digital-closet/README.md",
+		"/Z/pyth0n-fun/battlebotz/battlemanager.py",
+		"/Z/pyth0n-fun/battlebotz/battlebot.py",
+		"/Z/pyth0n-fun/battlebotz/battlebotz",
+		"/Z/pyth0n-fun/battlebotz",
+		"/Z/pyth0n-fun/ball.py",
+		"/Z/digital-closet/public/index.php",
+		"/Z/genesis/assets/main.js",
+		"/Z/genesis/index.html",
+		"/Z/genesis/assets/screenmanager.js",
+		"/Z/genesis/assets/screen.js",
+		"/Z/dark-echo/public/assets/js/main.js",
+		"/Z/dark-echo/public/assets/js/screens.js"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 166.0,
+		"where_history":
+		[
+			"X:\\dark-echo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"”",
+			"“",
+			"30",
+			"*5",
+			"angle1",
+			"radius",
+			"angle",
+			"-50;",
+			"y",
+			"y+yO",
+			");\n",
+			"class=\"post\"><?",
+			"<?php echo($post->getId()); ?>\"",
+			".class",
+			"mentBy",
+			".p",
+			".",
+			"querySelector",
+			"+i",
+			" default_server",
+			"x",
+			"sine",
+			"Math.floor(Math.random() * 25) + 1",
+			"10",
+			" s",
+			"extends Object",
+			"b",
+			"_",
+			"\"",
+			".get()",
+			"{\n\n}",
+			"extends Behavior",
+			"var ",
+			"/ 100",
+			"50",
+			"* 100",
+			"100",
+			"10)",
+			"/ 10",
+			"255",
+			"screen",
+			"Math.sin(ticks / 100) + 1)",
+			"7",
+			"a",
+			"7",
+			"6",
+			"0, 0, 0,",
+			"-1",
+			"+1",
+			"x",
+			"split",
+			"slice",
+			"rD",
+			"34",
+			"255",
+			"yPos",
+			"xPos",
+			"124",
+			"'12345678'.slice(Math.floor(Math.random()*8), Math.floor(Math.random()*8))",
+			"b",
+			"Math.random",
+			";\n",
+			"[mouse",
+			"b",
+			"20",
+			"640",
+			"b",
+			"10",
+			"x",
+			"board",
+			"\"",
+			"const",
+			"20",
+			"myArray",
+			":",
+			"function",
+			"x",
+			"i",
+			"== nextState",
+			" b.",
+			"b",
+			"cells",
+			".IsAlive",
+			"if (ce",
+			"Size.Y",
+			"Size.X",
+			"cell",
+			"[1,",
+			", -",
+			", ",
+			"2",
+			"0",
+			"10",
+			"#",
+			"iterate(b, x + 1, y)",
+			" == True",
+			"ir",
+			")",
+			"(",
+			"b,",
+			"b",
+			"(",
+			"col",
+			"row",
+			"render",
+			"is_alive",
+			"y",
+			"allow",
+			"allow_wr",
+			"    ",
+			"X",
+			"x",
+			"y",
+			"distance",
+			"||",
+			", end=\"\"",
+			"print",
+			";\n",
+			"g.cells",
+			"[",
+			"print",
+			"))\n",
+			"%i",
+			"this",
+			"drawAgain",
+			"draw",
+			"vC",
+			"ctx"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Richard Alvarez/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 70,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								70,
+								70
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "github.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Z:\\twatter.dev\\twatter.dev.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
