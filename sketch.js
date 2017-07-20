@@ -9,12 +9,6 @@ const SQUIGLY_RADIUS = 20;
 const SQUIGLY_SPEED = 1;
 var font, tick;
 
-
-function preload()
-{
-	font = loadFont("https://rawalvarez731.github.io/future.outrun-future-bold-italic.otf");
-}
-
 function getRandomArbitrary(min, max) {
     return Math.random() * (max - min) + min;
 }
@@ -78,7 +72,7 @@ function setup()
 {
 	createCanvas(windowWidth, windowHeight);	
 
-	while(nodes.length < 200)
+	while(nodes.length < (windowHeight*windowHeight)/Math.pow(SQUIGLY_RADIUS, 3))
 	{
 		let x = getRandomArbitrary(SQUIGLY_RADIUS*3, windowWidth - SQUIGLY_RADIUS*3);
 		let y = getRandomArbitrary(SQUIGLY_RADIUS*3, windowHeight - SQUIGLY_RADIUS*3);
@@ -126,16 +120,16 @@ function draw()
 		strokeWeight(1.0);
 		ellipse(n.x, n.y, SQUIGLY_RADIUS*3.5);
 	});*/
-	fill("#02AEF1").strokeWeight(0).textSize(100);
+	fill("#02AEF1").strokeWeight(0).textSize(map(2.5, 0, 50000, 0, (windowWidth*windowHeight)));
 	textAlign('center');
-	text("RICHARD ALVAREZ",windowWidth/2, windowHeight/2+25);
-	fill("#ED208E").strokeWeight(0).textSize(100);
-	textFont(font);
+	text("RICHARD ALVAREZ",windowWidth/2, windowHeight/2+15);
+	fill("#ED208E").strokeWeight(0).textSize(map(2.5, 0, 50000, 0, (windowWidth*windowHeight)));
+	textFont("Eight");
 	textAlign('center');
 	text("RICHARD ALVAREZ",windowWidth/2, windowHeight/2);
-	fill(255).strokeWeight(0).textSize(45);
-	textFont(font);
+	fill(255).strokeWeight(0).textSize(map(1, 0, 50000, 0, (windowWidth*windowHeight)));
+	textFont("Eight");
 	textAlign('center');
-	text("80s DREAM MACHINE",windowWidth/2, windowHeight/2+150);
+	text("80s DREAM MACHINE",windowWidth/2, windowHeight/2+100);
 }
 
