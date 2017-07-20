@@ -121,10 +121,16 @@ function draw()
 		strokeWeight(1.0);
 		ellipse(n.x, n.y, SQUIGLY_RADIUS*3.5);
 	});*/
-
-	fill(255).strokeWeight(0).textSize(150);
+	fill("#02AEF1").strokeWeight(0).textSize(100);
+	textAlign('center');
+	text("RICHARD ALVAREZ",windowWidth/2, windowHeight/2+25);
+	fill("#ED208E").strokeWeight(0).textSize(100);
 	textFont(font);
 	textAlign('center');
 	text("RICHARD ALVAREZ",windowWidth/2, windowHeight/2);
+	fill(255).strokeWeight(0).textSize(45);
+	textFont(font);
+	textAlign('center');
+	text("80s DREAM MACHINE",windowWidth/2, windowHeight/2+150);
 }
 
