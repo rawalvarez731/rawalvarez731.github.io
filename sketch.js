@@ -1,3 +1,8 @@
+/*
+ * Richard Alvarez
+ * Quick and dirty-ish
+ */
+
 'use strict';
 
 const SQUIGLY_RADIUS = 20;
