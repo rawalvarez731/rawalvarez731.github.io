@@ -7,7 +7,7 @@
 
 const SQUIGLY_RADIUS = 20;
 const SQUIGLY_SPEED = 1;
-var font;
+var font, tick;
 
 
 function preload()
