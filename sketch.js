@@ -2,7 +2,13 @@
 
 const SQUIGLY_RADIUS = 20;
 const SQUIGLY_SPEED = 1;
-var tick;
+var tick, font;
+
+
+function preload()
+{
+	font = loadFont("https://rawalvarez731.github.io/future.outrun-future-bold-italic.otf");
+}
 
 function getRandomArbitrary(min, max) {
     return Math.random() * (max - min) + min;
@@ -115,5 +121,10 @@ function draw()
 		strokeWeight(1.0);
 		ellipse(n.x, n.y, SQUIGLY_RADIUS*3.5);
 	});*/
+
+	fill(255).strokeWeight(0).textSize(150);
+	textFont(font);
+	textAlign('center');
+	text("RICHARD ALVAREZ",windowWidth/2, windowHeight/2);
 }
 
