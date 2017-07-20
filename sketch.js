@@ -12,7 +12,7 @@ var font;
 
 function preload()
 {
-	font = loadFont("./future.outrun-future-bold-italic.otf");
+	font = loadFont("https://rawalvarez731.github.io/future.outrun-future-bold-italic.otf");
 }
 
 function getRandomArbitrary(min, max) {
