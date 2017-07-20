@@ -7,12 +7,12 @@
 
 const SQUIGLY_RADIUS = 20;
 const SQUIGLY_SPEED = 1;
-var tick, font;
+var font;
 
 
 function preload()
 {
-	font = loadFont("https://rawalvarez731.github.io/future.outrun-future-bold-italic.otf");
+	font = loadFont("./future.outrun-future-bold-italic.otf");
 }
 
 function getRandomArbitrary(min, max) {
