@@ -5,7 +5,7 @@
 
 'use strict';
 
-const SQUIGLY_RADIUS = 20;
+var SQUIGLY_RADIUS;
 const SQUIGLY_SPEED = 1;
 var font, tick;
 
@@ -71,8 +71,8 @@ let squiglys = [];
 function setup()
 {
 	createCanvas(windowWidth, windowHeight);	
-
-	while(nodes.length < (windowHeight*windowHeight)/Math.pow(SQUIGLY_RADIUS, 3))
+	SQUIGLY_RADIUS = width*height*0.10;
+	while(nodes.length < 200)
 	{
 		let x = getRandomArbitrary(SQUIGLY_RADIUS*3, windowWidth - SQUIGLY_RADIUS*3);
 		let y = getRandomArbitrary(SQUIGLY_RADIUS*3, windowHeight - SQUIGLY_RADIUS*3);
