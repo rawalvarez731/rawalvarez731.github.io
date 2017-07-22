@@ -71,7 +71,7 @@ let squiglys = [];
 function setup()
 {
 	createCanvas(windowWidth, windowHeight);	
-	SQUIGLY_RADIUS = width*height*0.10;
+	SQUIGLY_RADIUS = (width*height)*0.10;
 	while(nodes.length < 200)
 	{
 		let x = getRandomArbitrary(SQUIGLY_RADIUS*3, windowWidth - SQUIGLY_RADIUS*3);
