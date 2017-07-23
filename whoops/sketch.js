@@ -21,8 +21,8 @@ function Firestone()
 
 	this.angle = 0;
 
-	this.position = createVector(random(0, width),random(0, 0));
-	this.velocity  = createVector(0);
+	this.position = createVector(random(0, width),random(0, height));
+	this.velocity  =  p5.Vector.random2D();
 	this.acceleration = createVector(0);
 
 	this.size = random(this.scaleSmall, this.scaleBig);
@@ -128,7 +128,7 @@ function setup()
 	createCanvas(windowWidth, windowHeight);
 	frameRate(60);
 	imageMode(CENTER);
-	for(let i = 0; i < 10; i++)
+	for(let i = 0; i < 2; i++)
 	{
 		firestones.push(new Firestone());
 	}
