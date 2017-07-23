@@ -74,12 +74,7 @@ function Firestone()
 
 	this.update = function()
 	{
-		let friction = this.velocity.copy();
-		friction.mult(-1);
-		friction.normalize();
-		friction.mult(0.01);
 
-		this.applyforce(friction);
 		this.velocity.add(this.acceleration);
 		this.position.add(this.velocity);
 
@@ -100,14 +95,14 @@ function Firestone()
 		this.v.forEach((vv)=>vertex(vv.x, vv.y));
 		endShape(CLOSE);
 		pop();
-/*		push();
+		push();
 		translate(this.position.x, this.position.y);
 		stroke(255);
 		fill(255);
 		strokeWeight(1);
 		text(this.mass, 0, 0);
 		text(this.velocity.y, 0, 10);
-		pop();*/
+		pop();
 	}
 
 }
@@ -142,7 +137,9 @@ function draw()
 		if(f.position.y>height||f.position.y<0||f.position.x<0||f.position.x>width)
 		{
 			firestones.push(new Firestone());	
-			firestones.push(new Firestone());
+			if(random(0, 1) > 0.75){
+				firestones.push(new Firestone());
+			}
 			firestones.splice(firestones.indexOf(f), 1);
 			return;
 		}
@@ -154,7 +151,7 @@ function draw()
 			if(f.hits(fp) && f != fp)
 			{
 				console.log('hit');
-				let xO;
+				let xO, yO;
 				if(f.position.x < fp.position.x){
 					xO = -1;
 				}else
