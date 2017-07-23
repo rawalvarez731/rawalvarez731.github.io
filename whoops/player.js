@@ -41,6 +41,14 @@ function Player()
 			player.pos.x = 0;
 		}
 
+		if(player.pos.y < 0)
+		{
+			player.pos.y = height;
+		}else if(player.pos.y > width)
+		{
+			player.pos.y = 0;
+		}
+
 		// Appply forces to position etc...
 
 		let friction = this.vel.copy();
