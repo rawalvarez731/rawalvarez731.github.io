@@ -1,4 +1,7 @@
 # rawalvarez731.github.io
-my face
-is 
-fuck you
+my front page.  
+Feel free to judge my speedily written JS.
+
+*Also does children's parties.*
+  
+Might become a blog in the future?
