@@ -80,7 +80,6 @@ function Firestone()
 		friction.mult(0.01);
 
 		this.applyforce(friction);
-		this.applyforce(GRAVITY);
 		this.velocity.add(this.acceleration);
 		this.position.add(this.velocity);
 
@@ -140,7 +139,7 @@ function draw()
 	background(7);
 
 	firestones.forEach((f)=>{
-		if(f.position.y-f.size>height)
+		if(f.position.y>height||f.position.y<0||f.position.x<0||f.position.x<width)
 		{
 			firestones.push(new Firestone());	
 			firestones.push(new Firestone());

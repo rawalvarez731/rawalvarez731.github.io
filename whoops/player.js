@@ -44,7 +44,7 @@ function Player()
 		if(player.pos.y < 0)
 		{
 			player.pos.y = height;
-		}else if(player.pos.y > width)
+		}else if(player.pos.y > height)
 		{
 			player.pos.y = 0;
 		}
