@@ -139,7 +139,7 @@ function draw()
 	background(7);
 
 	firestones.forEach((f)=>{
-		if(f.position.y>height||f.position.y<0||f.position.x<0||f.position.x<width)
+		if(f.position.y>height||f.position.y<0||f.position.x<0||f.position.x>width)
 		{
 			firestones.push(new Firestone());	
 			firestones.push(new Firestone());
