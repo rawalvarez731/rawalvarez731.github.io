@@ -162,8 +162,15 @@ function draw()
 					xO = 1;
 				}
 
-				f.applyforce(createVector(xO, 0));
-				fp.applyforce(createVector(-xO, 0));
+				if(f.position.y < fp.position.y){
+					yO = -1;
+				}else
+				{
+					yO = 1;
+				}
+
+				f.applyforce(createVector(xO, yO));
+				fp.applyforce(createVector(-xO, -yO));
 			}
 		});
 		f.update();
